@@ -1,0 +1,163 @@
+a.redlink:link {
+color : white;
+text-decoration : none;
+font-weight : bold;
+}
+
+a.redlink:active {
+color : yellow;
+text-decoration : none;
+font-weight : bold;
+}
+
+a.redlink:hover {
+color : pink;
+text-decoration : none;
+}
+
+a.redlink:visisted {
+color : white;
+text-decoration : none;
+font-weight : bold;
+}
+
+#berhenti {
+position: absolute; 
+visibility: hidden;
+}
+
+#emailer {
+position: absolute; 
+visibility:hidden;
+}
+
+#help {
+position: absolute; 
+visibility:hidden;
+}
+
+#next {
+position: absolute; 
+visibility:hidden;
+}
+
+#previous {
+position: absolute; 
+visibility:hidden;
+}
+
+#up {
+position: absolute; 
+visibility:hidden;
+}
+
+#down {
+position: absolute; 
+visibility:hidden;
+}
+
+#core {
+position: absolute; 
+visibility:hidden;
+}
+
+#window {
+position: absolute; 
+visibility:hidden;
+}
+      
+#disconnect {
+position: absolute; 
+visibility:hidden;
+}
+
+#topleft {
+position: absolute;  
+visibility:hidden;
+}
+             
+#botleft {
+position: absolute; 
+visibility:hidden;
+}
+             
+#topright {
+position: absolute; 
+visibility:hidden;
+}
+             
+#botright {
+position: absolute;
+visibility:hidden;
+}
+             
+#loading{
+position: absolute; 
+top: 200; left: 200;
+}
+             
+#terminated {
+position: absolute; 
+visibility: hidden; 
+top:0; 
+left:0; 
+width:640; 
+height: 480;
+}
+             
+#displayField {
+position: absolute; 
+font-weight: 100; 
+font-family: arial; 
+font-size: 10pt; 
+top:169; 
+left:365; 
+width: 260;
+}
+
+newsRelay {
+position: absolute;
+visibility: hidden; 
+}
+
+#news1 {
+position: absolute; 
+visibility: hidden; 
+left: 300px; 
+top: 80px; 
+width:495; 
+height:310
+}
+
+#news1Text {
+position: absolute; 
+visibility:hidden;
+}
+
+#news2 {
+position: absolute;
+visibility: hidden; 
+left: 300px; 
+top: 80px; 
+width:260; 
+height:290
+}
+
+#news2Text {
+position: absolute; 
+visibility:hidden;
+}
+
+#news3 {
+position: absolute; 
+visibility: hidden; 
+left: 300px; 
+top: 80px; 
+width:495; 
+height:310
+}
+
+#news3Text {
+position: absolute; 
+visibility:hidden;
+}

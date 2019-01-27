@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<pagescount>
+	<html_total>20</html_total>
+	<html_done>20</html_done>
+	<img>19</img>
+	<js>1</js>
+	<css>1</css>
+	<pdf/>
+	<doc/>
+	<xls/>
+	<ppt/>
+	<swf/>
+	<mp3/>
+	<mp4/>
+	<wav/>
+	<xml/>
+	<json/>
+	<txt/>
+	<fonts/>
+	<scraping_reload>1</scraping_reload>
+	<is_pretty_url>false</is_pretty_url>
+	<is_ebn>false</is_ebn>
+	<theme_name>42632</theme_name>
+	<server_url_front_page>https://www.waybackmachinedownloader.com/scraping/files/demo/hackers.com_fret.boy_hotmail.com_8jwvq5owj05</server_url_front_page>
+	<hosted_domain/>
+	<original_archive_url>http://web.archive.org/web/19990208004547/http://hackers.com:80/</original_archive_url>
+	<final_archive_url>http://web.archive.org/web/19990208004547/http://hackers.com:80/</final_archive_url>
+	<front_page_code_date>19990208004547</front_page_code_date>
+	<total_urls_from_api>+1000 pages</total_urls_from_api>
+	<search_url_added>true</search_url_added>
+</pagescount>
